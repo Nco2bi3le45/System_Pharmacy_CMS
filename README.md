@@ -20,4 +20,4 @@ A smart pharmacy inventory system designed for Central Medical Stores (CMS).
 To improve medicine availability, reduce stockouts, and support healthcare operations.
 
 ## Author
-Your Name
+Maqhawe Dlamini 
